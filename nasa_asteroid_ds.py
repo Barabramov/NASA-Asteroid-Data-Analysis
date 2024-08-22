@@ -261,7 +261,7 @@ def plt_linear_motion_magnitude(data):
 
 
 def main():
-    data = load_data('nasa.csv')
+    data = load_data('data/nasa.csv')
     if data is None:
         return
 
