@@ -1,15 +1,3 @@
-"""
-@Project: Maman15
-
-@Description : This project analyzes NASA asteroid data from a CSV file to calculate characteristics such as
-maximum magnitudes and distances from Earth. It includes visualizations like histograms and pie charts to represent data
-distribution and hazardous proportions. Additionally, functions assess linear relationships between asteroid speed and
-size. Exception handling is incorporated to ensure robust data processing.
-
-@ID : 318736253
-@Author: Bar Abramov
-@semester : 24b
-"""
 import numpy as np
 from matplotlib import pyplot as plt
 from scipy import stats
